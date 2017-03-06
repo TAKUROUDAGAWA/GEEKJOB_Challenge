@@ -1,0 +1,8 @@
+課題：自分のパソコンのスペックを調べる
+
+OS:Windows 10 Home 64ビット
+
+プロセッサ：Intel(R) Core(TM)i7-5557U CPU@3.10GHz(4CPUs),～3.1GHz
+
+メモリ：16384MB RAM
+
